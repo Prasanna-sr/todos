@@ -7,6 +7,7 @@ Projects built with Create-React-App include support for ES6 syntax, as well as 
 ## Dependencies
 
 ### `nodejs` (version > 6)
+https://nodejs.org/en/download/
 
 ### `npm install yarn -g`
 

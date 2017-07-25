@@ -16,6 +16,7 @@ In the project directory, you can run:
 
 
 ### `yarn install` (or `npm install`)
+cd into project directory and install all dependencies
 
 ### `yarn start` (or `npm start`)
 

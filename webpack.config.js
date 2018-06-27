@@ -8,11 +8,6 @@ module.exports = {
     publicPath: '/build/',
     filename: 'bundle.js'
   },
-  // devServer: {
-  //   contentBase: path.join(__dirname),
-  //   port: 9000,
-  //   compressed: true
-  // },
   module: {
     loaders: [
       {

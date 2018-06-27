@@ -20,7 +20,7 @@
     "react-dom": "^0.14.7",
     "react-redux": "^4.1.2",
     "redux": "^3.1.2",
-    "webpack-dev-server": "^3.1.4"
+    "webpack-dev-server": "^1.7.0"
   },
   "devDependencies": {
     "babel-core": "^6.3.15",
